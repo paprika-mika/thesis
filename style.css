@@ -3,8 +3,8 @@ scroll-behavior: smooth;
 }
 
 :root {
-    --font-size-s: 14pt;
-    --font-size-m: 15pt;
+    --font-size-s: 12pt;
+    --font-size-m: 12pt;
     --font-size-l: 20pt;
     --font-size-xl: 60pt;
     --line-height1: 20pt;
@@ -68,8 +68,7 @@ body {
 
 .text{
   width: 80%;
-  text-align: justify;
-  text-indent: 3em;
+  text-align: left;
   font-family: Arial, sans-serif;
   font-size: var(--font-size-m);
   margin:auto;
