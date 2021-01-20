@@ -5,7 +5,7 @@ scroll-behavior: smooth;
 :root {
     --font-size-s: 14pt;
     --font-size-m: 15pt;
-    --font-size-l: 30pt;
+    --font-size-l: 20pt;
     --font-size-xl: 60pt;
     --line-height1: 20pt;
     --yellow: rgb(255, 255, 0);
