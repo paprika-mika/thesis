@@ -5,7 +5,7 @@ scroll-behavior: smooth;
 :root {
     --font-size-s: 14pt;
     --font-size-m: 15pt;
-    --font-size-l: 70pt;
+    --font-size-l: 30pt;
     --font-size-xl: 60pt;
     --line-height1: 20pt;
     --yellow: rgb(255, 255, 0);
@@ -22,7 +22,7 @@ scroll-behavior: smooth;
 body {
   margin: 0;
   max-width: 100%;
-  width: 100vw;
+  width: 100%;
   height: auto;
   background-color: var(--grey);
 }
@@ -31,7 +31,7 @@ body {
 .page{
   position: absolute;
   min-height: 100vh;
-  width: 100vw;
+  width: 100%;
   background-color: white;
   margin: auto;
 }
